@@ -4,7 +4,7 @@
  	January 31, 2012  */
 
 html {
-    background-color: #A3A3C2;
+    background-color: #9999CC;
     color: #FBFBFB;
 	font-family: Georgia, serif;
 	margin: 5px;
@@ -23,7 +23,7 @@ h1 {
 	margin: 10px 5px;
 	border: 2px solid #FFFFFF;
 	padding: 5px;
-	background: #5E5E82;
+	background: #3521a7;
 }
 h4 {
     color: #FFFFFF;
@@ -31,7 +31,7 @@ h4 {
 	margin: 10px 20px;
 	border: 2px solid #FFFFFF;
 	padding: 10px;
-	background: #5E5E82;
+	background: #3521a7;
 }
 h3{
     color: #FFFFFF;
@@ -39,7 +39,7 @@ h3{
 	margin: 10px 20px;
 	border: 2px solid #FFFFFF;
 	padding: 10px;
-	background: #5E5E82;
+	background: #3521a7;
 }
 legend {
     color: #4B327D;
@@ -57,16 +57,16 @@ ol{color: #FFFFFF;
 	margin: 5px 20px;
 	border: 2px solid #FFFFFF;
 	padding: 10px;
-	background: #5E5E82;
+	background: #3521a7;
 }
 li{
-	color: #4B327D;
+	color: #FFFFFF;
 }
 ul{
-	color: #4B327D;
+	color: #FFFFFF;
 }
 nav{
-	color: #99CCFF
+	color: #FFFFFF
 	font-style: italic;
 	font-family: Georgia, serif;
 	font: 12px;

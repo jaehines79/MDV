@@ -1,7 +1,7 @@
-/*  Week 1 
+/*  Week 2 
  	MiU 1202 
  	Janis Jae Hines 
- 	January 31, 2012  */
+ 	February 8, 2012  */
 
 html {
     background-color: #9999CC;
@@ -54,6 +54,7 @@ input {
 }
 ol{color: #FFFFFF;
 	font-family: Georgia, serif;
+	font: 12px;
 	margin: 5px 20px;
 	border: 2px solid #FFFFFF;
 	padding: 10px;
